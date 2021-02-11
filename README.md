@@ -3,4 +3,4 @@
 This is a simple README file
 
 ## Heading 2
-just some text, now on a branch
+This is bound to cause trouble!
